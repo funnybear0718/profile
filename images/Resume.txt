@@ -1,0 +1,49 @@
+RESUME
+
+Name:               Yaroslav Kotov
+Email:               funnybear0718@gmail.com
+Location:          Krasnaya Ulitsa, Krasnodar, Krasnodarsky kray, Russia
+Skype Id:          live:.cid.97d7d07b87c7bb44 
+
+Timezone:        Europe Moscow
+Skills and Experiences
+
+Individual Skills
+
+I am full stack developer with multiple skills.
+The area of my experience includes, but not limited to website and mobile development, maintenance and e-commerce development.
+
+I have been working with following skills for over 10 years.
+
+1. Mobile development
+- Java, Kotlin, Android development, SDK
+- Objective-C, Swift, iOS app development
+- Flutter, React Native, Xamarin, Ionic, Cordova.
+
+2. Web development
+- Php : Laravel, Codeignitor, Symfony
+- Javascript : Node.js, Angular 2/4/5/6, Angular.js, React.Js, Vue.Js
+- Python : Django, Flask, Bottle
+- Database : Mysql, Mongodb, PostresSql, Sqlite
+- Wocommerce : Shopify, Magento
+- Cloud : AWS, Azure, Google cloud
+
+3. AI development.
+- Deep learning : Tensorflow, Pytorch, Keras, Caffe
+- Computer vision
+
+4. Programming languages
+- C++, C#, Java, Qt, Python selenium  
+
+Manager Skills
+
+I have 8+ years of Project Manager experience with my team and other developers.
+My team has 8 talented developers and we have made lots of software for several companies and customers.  
+
+Education
+
+Moscow University (2010-2018)
+
+Qualifications
+
+Bachelor of Business Administration 
